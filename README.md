@@ -33,16 +33,11 @@ pm2 start bin/www --name cargo-admin -f
 ### Admin panel API/back-end port: 3000
 ### Database info
 - MongoDB
-- Host: 173.254.240.202
-- Port: 27017
-- Username: cargo
-- Password: (omitted for obvious reasons)
-- Database name: cargo
 
 ## Live Demo
 ### Please do not act with any malicious intent. 
-* Website:
-* Admin Panel:
+* Website: Not available at this time
+* Admin Panel: Not available at this time
 
 
 ## Back-end API
