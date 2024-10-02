@@ -144,7 +144,7 @@ posting a car
 ## Division of Labor
 * Home - Aarav Patel
 * Login - Jenhua Chang 
-* List of cars - Austin Hauglandhttps://www.youtube.com/watch?v=wrO8XZ-_fNs&ab_channel=AaravPatel
+* List of cars - Austin Haugland
 * User profile viewing/editing - Jenhua Chang
 * User post new car - Austin Haugland
 * Car detail (with submitting and viewing comments and booking)
