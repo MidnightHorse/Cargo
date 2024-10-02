@@ -153,4 +153,3 @@ posting a car
 * Database - Carl Che
 
 ## Presentation Video
-https://www.youtube.com/watch?v=wrO8XZ-_fNs&ab_channel=AaravPatel
