@@ -1,0 +1,33 @@
+/* .App {
+  text-align: center;
+} */
+
+.Browse{
+  width: 80%; 
+  height: 50%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 10%;
+  
+}
+
+.homeImage{
+  
+  
+  max-width: 300px;
+  max-height: 300px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+.redirectButtons{
+  background-color: purple; 
+  color: white; 
+  padding: 10px 20px; 
+  text-align: 'center'; 
+  display: inline-block; 
+  font-size: 16px;
+}
